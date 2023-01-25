@@ -23,11 +23,11 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Text;
 
-[assembly: AssemblyTitle("ARSoft.Tools.Net")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ARSoft.Tools.Net.iCOMcept")]
+[assembly: AssemblyDescription("This project contains a complete managed .Net SPF validation, SenderID validation and a dns client and dns server implementation written in C#")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Alexander Reinert")]
-[assembly: AssemblyProduct("ARSoft.Tools.Net")]
+[assembly: AssemblyProduct("ARSoft.Tools.Net.iCOMcept")]
 [assembly: AssemblyCopyright("Copyright © Alexander Reinert 2010..2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

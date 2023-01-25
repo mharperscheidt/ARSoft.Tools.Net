@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>mharperscheidt</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">https://github.com/mharperscheidt/ARSoft.Tools.Net/blob/master/LICENSE</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/mharperscheidt/ARSoft.Tools.Net/tree/master/ARSoft.Tools.Net/</projectUrl>
+    <description>Package description</description>
+    <releaseNotes>Update BouncyCastle package.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>dns, dnssec, spf</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+      </group>
+    </dependencies>
+  </metadata>
+</package>

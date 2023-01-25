@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>ARSoft.Tools.Net.icomcept</id>
+    <version>2.2.9</version>
+    <title>ARSoft.Tools.Net.icomcept</title>
+    <authors>Alexander Reinert</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/mharperscheidt/ARSoft.Tools.Net/tree/master/ARSoft.Tools.Net/</projectUrl>
+    <description>This project contains a complete managed .Net SPF validation, SenderID validation and a dns client and dns server implementation written in C#</description>
+    <releaseNotes>Update used BouncyCastle version</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>dns, dnssec, spf</tags>
+	<dependencies>
+      <group targetFramework="net45">
+        <dependency id="BouncyCastle" version="1.8.9" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
